@@ -2,6 +2,13 @@
 
 ## Setup Instructions
 
+### Get Started
+
+```
+git clone https://github.com/Risto0211/Turmerik_ML_HW.git
+cd Turmerik_ML_HW
+```
+
 ### Install Requirements
 
 ```
